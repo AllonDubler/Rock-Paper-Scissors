@@ -1,0 +1,25 @@
+html, body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+} 
+
+.gameCard {    
+    display: block;
+    height: auto;
+    min-height: calc(100% - 2em);
+    width: calc(100% - 2em);
+    float: left;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 9px;
+    border-color: #343a40;
+    border-style: solid;
+    border-width: 1px;
+}
+
+input {
+    margin-bottom: 6px;
+}
