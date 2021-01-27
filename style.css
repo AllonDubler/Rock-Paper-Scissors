@@ -3,7 +3,7 @@ html, body {
     font-size: 20pt;
     height: 100%;
     margin: 0;
-    overflow: hidden;
+    overflow: auto;
 } 
 
 .gameCard {    
